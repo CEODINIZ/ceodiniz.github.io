@@ -1,1 +1,1 @@
-https://ceodiniz.github.io
+http://ceodiniz.github.io
